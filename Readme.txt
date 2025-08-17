@@ -1,0 +1,1 @@
+This is a basic case converting program, which converts the Camel or Pascal cased string provided by an user to a lower case snake style string. If a user provide a string "I Am Mark", the output string comes as "i_am_mark". This is developed my using Python language. Fundamental concept like list comprehension instead of loops is used.
